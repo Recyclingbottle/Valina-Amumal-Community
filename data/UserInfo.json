@@ -1,0 +1,62 @@
+[
+  {
+    "email": "user1@example.com",
+    "password": "password123",
+    "nickname": "nickname1",
+    "profile_image": "profile_img.webp"
+  },
+  {
+    "email": "user2@example.com",
+    "password": "password234",
+    "nickname": "nickname2",
+    "profile_image": "profile_img.webp"
+  },
+  {
+    "email": "user3@example.com",
+    "password": "password345",
+    "nickname": "nickname3",
+    "profile_image": "profile_img.webp"
+  },
+  {
+    "email": "user4@example.com",
+    "password": "password456",
+    "nickname": "nickname4",
+    "profile_image": "profile_img.webp"
+  },
+  {
+    "email": "user5@example.com",
+    "password": "password567",
+    "nickname": "nickname5",
+    "profile_image": "profile_img.webp"
+  },
+  {
+    "email": "user6@example.com",
+    "password": "password678",
+    "nickname": "nickname6",
+    "profile_image": "profile_img.webp"
+  },
+  {
+    "email": "user7@example.com",
+    "password": "password789",
+    "nickname": "nickname7",
+    "profile_image": "profile_img.webp"
+  },
+  {
+    "email": "user8@example.com",
+    "password": "password890",
+    "nickname": "nickname8",
+    "profile_image": "profile_img.webp"
+  },
+  {
+    "email": "user9@example.com",
+    "password": "password901",
+    "nickname": "nickname9",
+    "profile_image": "profile_img.webp"
+  },
+  {
+    "email": "user10@example.com",
+    "password": "password012",
+    "nickname": "nickname10",
+    "profile_image": "profile_img.webp"
+  }
+]

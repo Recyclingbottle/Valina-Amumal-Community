@@ -1,0 +1,113 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "첫 번째 게시글 제목",
+      "author": {
+        "nickname": "nickname1",
+        "profileImage": "profile_img.webp"
+      },
+      "date": "2022-01-01 00:00:00",
+      "content": "새해 첫날, 새로운 시작을 알리는 이 게시글과 함께 모든 독자에게 행복을 전합니다. 이 게시글을 통해 올 한 해 동안의 목표와 계획을 공유하고자 합니다.",
+      "postImage": "post_image1.jpg",
+      "views": 120,
+      "likes": 45,
+      "comments": [
+        {
+          "nickname": "nickname2",
+          "profileImage": "profile_img.webp",
+          "date": "2022-01-02 12:30:00",
+          "content": "새해 복 많이 받으세요! 목표 달성을 응원합니다!"
+        },
+        {
+          "nickname": "nickname3",
+          "profileImage": "profile_img.webp",
+          "date": "2022-01-03 15:45:00",
+          "content": "올해도 좋은 글 부탁드려요!"
+        }
+      ],
+      "commentsCount": 2
+    },
+    {
+      "id": 2,
+      "title": "두 번째 게시글 제목",
+      "author": {
+        "nickname": "nickname2",
+        "profileImage": "profile_img.webp"
+      },
+      "date": "2022-02-01 10:00:00",
+      "content": "2월의 시작과 함께 새로운 도전을 시작합니다. 이번 달은 특별한 이벤트가 많이 준비되어 있으니 많은 기대 부탁드립니다.",
+      "postImage": "post_image2.jpg",
+      "views": 150,
+      "likes": 60,
+      "comments": [],
+      "commentsCount": 0
+    },
+    {
+      "id": 3,
+      "title": "세 번째 게시글 제목",
+      "author": {
+        "nickname": "nickname3",
+        "profileImage": "profile_img.webp"
+      },
+      "date": "2022-03-01 15:00:00",
+      "content": "봄을 맞이하여 자연의 아름다움을 소개하는 이번 게시물에서는 꽃과 나무의 변화를 살펴봅니다. 자연과 함께하는 시간을 통해 마음의 안정을 찾을 수 있기를 바랍니다.",
+      "postImage": "post_image3.jpg",
+      "views": 200,
+      "likes": 85,
+      "comments": [
+        {
+          "nickname": "nickname4",
+          "profileImage": "profile_img.webp",
+          "date": "2022-03-02 18:20:00",
+          "content": "봄이 오는 소리가 들리는 것 같네요!"
+        }
+      ],
+      "commentsCount": 1
+    },
+    {
+      "id": 4,
+      "title": "네 번째 게시글 제목",
+      "author": {
+        "nickname": "nickname4",
+        "profileImage": "profile_img.webp"
+      },
+      "date": "2022-04-01 09:00:00",
+      "content": "4월의 첫날을 맞이하여, 이번 달에는 새로운 기술과 혁신에 대해 다루어보고자 합니다. 최신 기술 트렌드와 그 영향에 대해 깊이 있는 분석을 제공하겠습니다.",
+      "postImage": "post_image4.jpg",
+      "views": 300,
+      "likes": 120,
+      "comments": [
+        {
+          "nickname": "nickname5",
+          "profileImage": "profile_img.webp",
+          "date": "2022-04-02 11:30:00",
+          "content": "기술 발전이 정말 빠르네요, 잘 보고 있습니다!"
+        }
+      ],
+      "commentsCount": 1
+    },
+    {
+      "id": 5,
+      "title": "다섯 번째 게시글 제목",
+      "author": {
+        "nickname": "nickname5",
+        "profileImage": "profile_img.webp"
+      },
+      "date": "2022-05-01 20:00:00",
+      "content": "5월, 가정의 달을 맞이하여 가족과 함께하는 시간의 중요성에 대해 이야기하고자 합니다. 가족과의 관계를 강화하는 방법과 함께 보내는 시간의 가치에 대해 공유하겠습니다.",
+      "postImage": "post_image5.jpg",
+      "views": 250,
+      "likes": 95,
+      "comments": [
+        {
+          "nickname": "nickname6",
+          "profileImage": "profile_img.webp",
+          "date": "2022-05-02 13:40:00",
+          "content": "가족과의 시간이 정말 소중하죠. 좋은 글 감사합니다."
+        }
+      ],
+      "commentsCount": 1
+    }
+  ]
+}
